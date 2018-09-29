@@ -185,6 +185,24 @@
 						}
 					],
 					"updated": "25-6-2018"
+				},
+				{
+					"prettyName": "Deez",
+					"icon": "fa-lightbulb-o",
+					"name": "deez",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/music_service/deez/deez.zip",
+					"license": "ISC",
+					"description": "Deezer",
+					"details": "first publish",
+					"author": "Volumio Team",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "29-9-2018"
 				}
 			]
 		},
